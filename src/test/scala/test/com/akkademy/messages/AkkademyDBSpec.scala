@@ -1,3 +1,5 @@
+package test.com.akkademy.messages
+
 import akka.actor.ActorSystem
 import akka.testkit.TestActorRef
 import akka.util.Timeout
